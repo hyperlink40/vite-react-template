@@ -42,6 +42,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+       <img src={public) className="images" alt="jane.jpg" />
       </div>
       <div className="card">
         <button
